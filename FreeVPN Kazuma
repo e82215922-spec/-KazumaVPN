@@ -1,1 +1,25 @@
+#profile-title: @KazumaVPN
+#profile-update-interval: 3
+#subscription-userinfo: expire=5774966400; total=10995116277760; used=0
+#profile-web-page-url:  https://t.me/KazumaVPN
+#announce:   tgk:@KazumaVPN
 
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@it.tconnect.services:443?type=tcp&security=reality&pbk=g0s7EjoEBg9GFMXPrt20T60Cu-DcqHM9ItqNMcxSU38&fp=firefox&sni=stackoverflow.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇮🇹 pr_
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@it.tconnect.services:8443?type=grpc&security=reality&pbk=9qwClMAGnKg-Mdw_06BqIqy0OTWj1Sj2EM7ysHzneXs&fp=chrome&sni=it.tconnect.services&sid=71e87186710e710e#🇮🇹 pr_-2 (gRPC)
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@poland.tconnect.services:443?type=tcp&security=reality&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&fp=firefox&sni=cdnjs.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇵🇱 pr_-3
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@swiz.tconnect.services:443?type=tcp&security=reality&pbk=B8VRypcy41lABbR4ZrDPQNTpzh090WOFuAl2zfnStj0&fp=firefox&sni=stackoverflow.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇨🇭 pr_-4
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@fin.tconnect.services:443?type=tcp&security=reality&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&fp=firefox&sni=stackoverflow.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇫🇮 pr_-5
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@de1.test.tconnect.services:443?type=tcp&security=reality&pbk=dioB_kXykvJQK_HocR5Z3TnXJNabVhYoRX2TVsfsK0Q&fp=firefox&sni=stackoverflow.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇩🇪 pr_-6
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@shine.rus.tconnect.services:443?type=tcp&security=reality&pbk=axnZPKm89ukElMCcaowr_T84ayJ5zUIv40xifYiW5Qk&fp=firefox&sni=stackoverflow.com&sid=94cb4f012557babc&flow=xtls-rprx-vision#🇷🇺 br_
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@sky.rus.tconnect.services:7443?type=tcp&security=reality&pbk=n5Rp2z96zBYG804D0PiqSL4g096utaOV0_MJq32EwFg&fp=firefox&sni=sky.rus.tconnect.services&sid=94cb4f012557babc&flow=xtls-rprx-vision#🇷🇺 br_-2
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@saturn.tron.tconnect.services:443?type=tcp&security=reality&pbk=C3rQ7SToWgeZGW117bs1F51nAJkXX_16FvTa6lS_IwE&fp=firefox&sni=stackoverflow.com&sid=94cb4f012557babc&flow=xtls-rprx-vision#🇷🇺 br_-3
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@pluto.mine.tconnect.services:443?type=tcp&security=reality&pbk=rCmzlJ6dyBEf-e4aHzw1AqeC_QeAQF4al1cWWYKQPhk&fp=firefox&sni=stackoverflow.com&sid=94cb4f012557babc&flow=xtls-rprx-vision#🇷🇺 br_-4
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@maxsun.tconnect.services:7443?type=ws&security=tls&fp=firefox&sni=maxsun.tconnect.services&path=/ws#🇷🇺 by_
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@maxsun.tconnect.services:8443?type=ws&security=tls&fp=chrome&sni=maxsun.tconnect.services&path=/ws#🇷🇺 by_-2
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@maxsun.tconnect.services:9443?type=tcp&security=reality&pbk=IlzgbBZeMQEdflogxemsYWXUH3l-0sa8pqYPzVDQFlI&fp=firefox&sni=io.ozone.ru&sid=71e87186710e710e&flow=xtls-rprx-vision#🇷🇺 by_-3
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-1.us.tconnect.services:443?type=tcp&security=reality&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&fp=chrome&sni=cdnjs.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇺🇸 pr_USA
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-2.us.tconnect.services:443?type=tcp&security=reality&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&fp=chrome&sni=cdnjs.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇺🇸 pr_USA-2
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-3.us.tconnect.services:443?type=tcp&security=reality&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&fp=chrome&sni=cdnjs.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇺🇸 pr_USA-3
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-1.us.tconnect.services:8443?type=ws&security=tls&fp=chrome&sni=usa-1.us.tconnect.services&path=/ws#🇺🇸 pr_USA-4
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-2.us.tconnect.services:8443?type=ws&security=tls&fp=chrome&sni=usa-2.us.tconnect.services&path=/ws#🇺🇸 pr_USA-5
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-3.us.tconnect.services:8443?type=ws&security=tls&fp=chrome&sni=usa-3.us.tconnect.services&path=/ws#🇺🇸 pr_USA-6
