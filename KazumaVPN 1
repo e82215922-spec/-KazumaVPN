@@ -23,3 +23,9 @@ vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@146.103.97.48:443?security=reality&
 vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&sid=16&type=tcp#🏴‍☠️ Торрент 2
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?encryption=none&security=reality&sni=uk.bvps.cloud&fp=firefox&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&type=tcp&flow=xtls-rprx-vision#🏴‍☠️ Торрент
 vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.208:8443?encryption=none&security=reality&sni=cdn2.swaginozip.fun&fp=safari&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&sid=a13edee689fca1da&type=tcp&flow=xtls-rprx-vision#🇪🇺 Соцсети LTE
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-1.us.tconnect.services:443?type=tcp&security=reality&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&fp=chrome&sni=cdnjs.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇺🇸 pr_USA
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-2.us.tconnect.services:443?type=tcp&security=reality&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&fp=chrome&sni=cdnjs.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇺🇸 pr_USA-2
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-3.us.tconnect.services:443?type=tcp&security=reality&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&fp=chrome&sni=cdnjs.com&sid=71e87186710e710e&flow=xtls-rprx-vision#🇺🇸 pr_USA-3
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-1.us.tconnect.services:8443?type=ws&security=tls&fp=chrome&sni=usa-1.us.tconnect.services&path=/ws#🇺🇸 pr_USA-4
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-2.us.tconnect.services:8443?type=ws&security=tls&fp=chrome&sni=usa-2.us.tconnect.services&path=/ws#🇺🇸 pr_USA-5
+vless://2f696d54-e1fe-48f5-ab44-b64013941945@usa-3.us.tconnect.services:8443?type=ws&security=tls&fp=chrome&sni=usa-3.us.tconnect.services&path=/ws#🇺🇸 pr_USA-6
